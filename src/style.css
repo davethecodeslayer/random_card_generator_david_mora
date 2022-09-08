@@ -6,3 +6,10 @@ body {
 #pintaDown {
   transform: rotate(180deg);
 }
+
+#carta {
+  background-color: white;
+  width: 150px;
+  height: 250px;
+  border-radius: 10px;
+}
